@@ -1,0 +1,8 @@
+{
+  "name": "react-github-repositories",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "ssh://git@github.com/konojunya/react-github-repositories.git",
+  "author": "konojunya <junya03dance@gmail.com>",
+  "license": "MIT"
+}
